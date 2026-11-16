@@ -1,0 +1,6 @@
+LightboxClicker-*.exe
+!LightboxClicker-20261104-r5.exe
+*.pdb
+*.obj
+*.tmp
+*.lbx
